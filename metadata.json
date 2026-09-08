@@ -1,0 +1,6 @@
+{
+  "name": "BLACKBOX·POD",
+  "description": "A nostalgic early-2000s iPod-inspired offline music player with classic click wheel, custom backgrounds, visualizer, equalizer, local library management, and Y2K skins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
